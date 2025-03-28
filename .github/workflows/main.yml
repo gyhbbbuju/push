@@ -1,4 +1,4 @@
-name: sopopyy3
+name: sopopyy4
 on:
   schedule:
     - cron: '4 2,10,18 * * *'
